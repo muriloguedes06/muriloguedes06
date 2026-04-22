@@ -1,4 +1,4 @@
-<h1 align="left">Hi https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif, I'm Murilo Guedes</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Murilo Guedes</h1>
 
 - 🚀 Junior Full-Stack Developer (Node.js | React | PostgreSQL)
 - 📚 Currently improving my skills with Rocketseat
