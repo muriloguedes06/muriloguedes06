@@ -8,7 +8,7 @@
 
 ---
 
-🚀 Junior Full-Stack Developer (Node.js | React | PostgreSQL)  
+🚀 Junior Full-Stack Developer (Node.js | React | PostgreSQL | MongoDB)
 📚 Currently improving my skills with Rocketseat  
 💡 Interested in Web Development, AI & Automation  
 ⚡ I enjoy building tools that automate repetitive tasks  
