@@ -22,5 +22,5 @@ JavaScript • Node.js • React • PostgreSQL • HTML • CSS • Git
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/murilo-guedes-b036ba2bb/  
+- LinkedIn: https://www.linkedin.com/in/muriloguedes06
 - YouTube: https://www.youtube.com/@muriloguedes06  
