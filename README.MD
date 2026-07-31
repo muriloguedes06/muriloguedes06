@@ -8,7 +8,7 @@
 
 ---
 
-🚀 Junior Full-Stack Developer (Node.js | React | PostgreSQL | MongoDB)<br>
+🚀 Full-Stack Developer (Node.js | Typescript | React | PostgreSQL | MongoDB)<br>
 📚 Currently improving my skills with DevClub<br>
 💡 Interested in Web Development, AI & Automation<br>
 ⚡ I enjoy building tools that automate repetitive tasks<br>
