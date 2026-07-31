@@ -17,7 +17,7 @@
 ---
 
 ## 🛠 Tech Stack
-JavaScript • Node.js • React • PostgreSQL • HTML • CSS • Git  
+JavaScript • Node.js • React • Typescript • PostgreSQL • HTML • CSS • Git  
 
 ---
 
