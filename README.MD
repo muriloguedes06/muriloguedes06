@@ -11,7 +11,7 @@
 🚀 Full-Stack Developer (Node.js | Typescript | React | PostgreSQL | MongoDB)<br>
 📚 Currently improving my skills with DevClub<br>
 💡 Interested in Web Development, AI & Automation<br>
-⚡ I enjoy building tools that automate repetitive tasks<br>
+⚡ I enjoy creating, and I consider it fundamental to a developer's life.<br>
 🌐 Portfolio: https://muriloguedes.dev
 
 ---
